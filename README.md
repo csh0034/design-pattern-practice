@@ -1,6 +1,7 @@
 # GoF Design Pattern
 
-디자인 패턴은 모듈의 세분화된 역할이나 모듈들 간의 인터페이스 구현 방식을 설계할때 참조할 수 있는 전형적인 해결 방식을 말한다.  
+디자인 패턴은 모듈의 세분화된 역할이나 모듈들 간의 인터페이스 구현 방식을 설계할때 참조할 수 있는 전형적인 해결 방식을 말한다.
+
 GoF(Gang of Four)라고 불리는 Erich Gamma, Richard Helm, Ralph Johnson, John Vissides 가 처음으로 디자인 패턴을 구체화하였다.  
 
 ## 생성(Creational) 패턴
